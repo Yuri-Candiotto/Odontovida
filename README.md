@@ -1,6 +1,10 @@
 # Odontovida
  Sistema odontológico
 
+EQUIPE:
+Yuri Mazzuchello Candiotto
+Suyane Bonfanti dos Santos
+
 DESCRIÇÃO:	
 O projeto consiste em desenvolver um sistema de agendamento de clínica odontológica. Este sistema será um aplicativo de desktop que permitirá que uma clínica odontológica gerencie seus agendamentos, clientes e serviços de forma eficiente. Ele incluirá recursos de cadastro de clientes, agendamento de consultas, cancelamento de agendamentos, registro de serviços prestados e geração de relatórios.
 
