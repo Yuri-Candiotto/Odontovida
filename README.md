@@ -3,7 +3,7 @@
 
 EQUIPE:
 Yuri Mazzuchello Candiotto<br>
-Suyane Bonfanti dos Santos
+Suyane Bonfanti dos Santos<br>
 
 DESCRIÇÃO:	
 O projeto consiste em desenvolver um sistema de agendamento de clínica odontológica. Este sistema será um aplicativo de desktop que permitirá que uma clínica odontológica gerencie seus agendamentos, clientes e serviços de forma eficiente. Ele incluirá recursos de cadastro de clientes, agendamento de consultas, cancelamento de agendamentos, registro de serviços prestados e geração de relatórios.
