@@ -2,7 +2,7 @@
  Sistema odontológico
 
 EQUIPE:
-Yuri Mazzuchello Candiotto
+Yuri Mazzuchello Candiotto<br>
 Suyane Bonfanti dos Santos
 
 DESCRIÇÃO:	
