@@ -4,7 +4,7 @@ const CorpoHome = () => {
             <div className="containerHome">
                 <div className="BlocoHomeEsq">
                 <h1 className="TitleHome">Seja Bem Vindo!</h1>
-                <p>Juntos, construímos sorrisos e bem-estar.</p>
+                <p className="frase">Juntos, construímos sorrisos e bem-estar.</p>
                 
                 </div>
                 <div className="BlocoHomeDir">
