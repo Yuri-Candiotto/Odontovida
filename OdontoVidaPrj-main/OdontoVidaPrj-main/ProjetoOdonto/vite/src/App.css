@@ -312,3 +312,9 @@ color: white;
   left: 270px;
   top: 15px;
 }
+
+.frase{
+  font-size: larger;
+  font-family: 'Arial';
+  color: green;
+}
