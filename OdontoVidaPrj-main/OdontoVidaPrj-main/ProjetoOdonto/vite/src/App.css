@@ -318,3 +318,10 @@ color: white;
   font-family: 'Arial';
   color: green;
 }
+
+.ListagemServic{
+  color: black;
+  font-size: 30px;
+  position: relative;
+  right: 145px;
+}
