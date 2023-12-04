@@ -1,11 +1,11 @@
 import Header from "../components/Header"
-import SuperiorCadastro from "../components/SuperiorCadastro"
+import CadastroCliente from "../components/CadastroCliente"
 
 const TelaCadastro = () => {
     return(
         <div>
             <div className="headerPosition"><Header /></div>
-            <SuperiorCadastro/>
+            <CadastroCliente/>
         </div>
     )
 }
