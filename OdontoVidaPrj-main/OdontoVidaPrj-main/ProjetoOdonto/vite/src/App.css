@@ -17,19 +17,23 @@ body{
 .parede{
   position: relative;
   bottom: 32px;
-  left: 65px;
+  left: 250px;
   background-color: #1CAC78;
-  width: 860px;
-  height: 645px;
-  
+  width: 488px;
+  height: 940px;
+  padding-right: 550px;
 }
+
 
 .parede>h1{
   color: white;
-  font-size: 60px;
+  font-size: 75px;
+  font-family: 'Lucida Sans';
   position: relative;
-  top: 50px;
+  top: 280px;
+  padding-left: 180px; 
 }
+
 
 /* Formulário */
 
@@ -131,19 +135,20 @@ input[type="submit"]:hover{
   background-color: #1CAC78;
   background-attachment: fixed;
   width: 1370px;
-  height: 200px;
+  height: 190px;
   position: relative;
   bottom: 110px;
-  right: 43px;
+  right: 380px;
+  padding-right: 667px;
   border-bottom: double white 25px;
-
 }
 
 .titleHeader{
 position: absolute;
-left: 45px;
-bottom: 10px;
+left: 500px;
+bottom: 20px;
 color: white;
+font-family: 'Lucida Sans';
 }
 
 .containerMenu{
@@ -319,9 +324,63 @@ color: white;
   color: green;
 }
 
-.ListagemServic{
-  color: black;
-  font-size: 30px;
-  position: relative;
-  right: 145px;
+.relatorio-container{
+  padding-left: 300px;
+  font-size: large;
 }
+
+.relatorio-item{
+  padding-right: 400;
+}
+
+.tituloserv{
+  font-size: 30px;
+  padding: 35px;
+  padding-right: 300px;
+
+}
+
+.relatorio-lista{
+  padding-right: 300px;
+  font-size: large;
+}
+
+.servicoPalavra{
+  font-size: large ;
+  margin-bottom: 0px;
+}
+
+.valorPalavra{
+  margin-bottom: 0px;
+
+}
+
+.botao-excluir{
+  border: 2px solid #1CAC78;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #1CAC78;
+  padding: 3px;
+}
+
+.botao-confirmar {
+  border: 2px solid #1CAC78;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #1CAC78;
+  padding: 9px;
+  margin-top: 20px;
+
+}
+
+.formulario-form{
+  font-weight: bold;
+}
+
+.valorPalavra{
+  margin-bottom: 0px;
+
+}
+
+ 
+
