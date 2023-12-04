@@ -319,8 +319,8 @@ font-family: 'Lucida Sans';
 }
 
 .frase{
-  font-size: larger;
-  font-family: 'Arial';
+  font-size: x-large;
+  font-style: oblique;
   color: green;
 }
 
